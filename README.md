@@ -1,5 +1,10 @@
 <div align="center">
-	<h1 align="center">Welcome — I'm CompEng0001,<br> a Lecturer in Computer Engineering</h1>
+  <a href="https://github.com/CompEng0001">
+	<img src="https://github.com/user-attachments/assets/18e861c1-afe7-4e68-88e3-00fa53db1c8e" alt="CompEng0001" style="width:350px">
+  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&letterSpacing=0.1rem&pause=1000&color=8F33DF&multiline=false&width=650&lines=Computer+Engineer%2C+Lecturer+and+developer++;10%2B+years+of+teaching+and+developing)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
