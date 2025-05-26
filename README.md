@@ -1,14 +1,11 @@
 <div align="center">
 	<h1 align="center">Welcome — I'm CompEng0001,<br> a Lecturer in Digital & Software Engineering</h1>
-
-  <img src="./moss.gif" alt="moss_rage" align="right">
 </div>
 
 <br/>
 
-
-
-<p align="center">
+<p align="left">
+  <img src="./moss.gif" alt="moss_rage" align="right" style="width:350px">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -18,7 +15,7 @@
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Tools & DevOps -->
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -28,7 +25,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Editors & IDEs -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
@@ -37,7 +34,7 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
@@ -46,7 +43,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Academic Tools -->
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -56,9 +53,7 @@
 
 <p align="center">
 <a href="https://github.com/CompEng0001">  
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=CompEng0001&theme=material-palenight&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500"/>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> <img width="45%" src="https://nirzak-streak-stats.vercel.app?user=CompEng0001&theme=material-palenight&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 </a>
 </p>
 
