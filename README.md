@@ -1,5 +1,5 @@
 <div align="center">
-	<h1 align="center">Welcome — I'm CompEng0001,<br> a Lecturer in Digital & Software Engineering</h1>
+	<h1 align="center">Welcome — I'm CompEng0001,<br> a Lecturer in Computer Engineering</h1>
 </div>
 
 <br/>
