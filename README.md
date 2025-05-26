@@ -1,62 +1,83 @@
-### Hi there 👋
+<div align="center">
+	<h1 align="center">Welcome — I'm CompEng0001,<br> a Lecturer in Digital & Software Engineering</h1>
 
-<!--
-**CompEng0001/CompEng0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="./moss.gif" alt="moss_rage" align="right">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img alt="Night Coding" src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/834cf73d-3eee-46c2-45af-4e1c12681900/w=380" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Bash](https://img.shields.io/badge/-gnubash-05122A?style=flat&logo=gnubash)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C#](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
-![Rust](https://img.shields.io/badge/-rust-05122A?style=flat&logo=rust)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![mdbook](https://img.shields.io/badge/-mdbook-05122A?style=flat&logo=mdbook)\
-![Android Studio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=androidstudio)&nbsp;
-![Arduino](https://img.shields.io/badge/-arduino-05122A?style=flat&logo=arduino)&nbsp;
-![Gitpod](https://img.shields.io/badge/-gitpod-05122A?style=flat&logo=gitpod)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-05122A?style=flat&logo=intellijidea)&nbsp;
-![Overleaf](https://img.shields.io/badge/-overleaf-05122A?style=flat&logo=overleaf)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5D3FD3)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Android](https://img.shields.io/badge/-android-05122A?style=flat&logo=android)&nbsp;
-![Arch Linux](https://img.shields.io/badge/-archlinux-05122A?style=flat&logo=archlinux)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
-![NixOS](https://img.shields.io/badge/-nixos-05122A?style=flat&logo=nixos)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+<br/>
 
 
-<!--https://github.com/simple-icons/simple-icons/blob/develop/slugs.md-->
-
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/CompEng0001">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<p align="center">
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GH Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/MD-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+<p align="center">
+  <!-- Editors & IDEs -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/AStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+</p>
+
+<p align="center">
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p>
+
+<p align="center">
+  <!-- Academic Tools -->
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/mdBook-000000?style=for-the-badge&logo=mdbook&logoColor=white" alt="mdBook" />
+</p>
+
+<p align="center">
+<a href="https://github.com/CompEng0001">  
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=CompEng0001&theme=material-palenight&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500"/>
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CompEng0001&layout=compact&langs_count=8&theme=material-palenight"/>
 </a>
 </p>
+
+I'm an educator and engineer working in higher education, focused on empowering the next generation of computing professionals. My teaching and research lie at the intersection of **software engineering**, **systems programming**, and **embedded computing**, with a passion for **secure, maintainable, and reproducible systems**.
+
+🎓 **Teaching areas**:
+- Software Engineering Principles, Design Patterns, and Architecture
+- CI/CD Pipelines and DevOps Practices
+- Android Development in Kotlin
+- Systems Programming in Rust, C, and C++
+- Embedded Linux and bare-metal development
+- Secure Systems and Operating System internals
+
+💡 **Academic Interests**:
+- Digital engineering approaches to cyber-physical systems
+- System engineering, and reproducible environments /deployment pipelines
+- Pedagogical tooling and assessment design in computing education
+- Open-source learning platforms and developer enablement
+
+🏛️ I contribute to teaching, tooling, and curriculum development at the [University of Greenwich](https://github.com/UniOfGreenwich) and maintain an active portfolio of personal and collaborative open-source projects.
+
+📫 Feel free to explore my repositories or connect if you're interested in systems education, reproducible infrastructure, or applied software engineering in academia.
